@@ -3,6 +3,10 @@
 개발 인원: 1명 
 개발 기간: 2022.08 ~ 2022.11
 ```
+## Refactoring
+현재 백엔드 Api들을 리팩토링하고 있으며 해당 프로젝트는 실행되지 않습니다.  
+리팩토링 저장소는 https://github.com/JOOYUNHAK/caregiver-project-v2입니다.
+
 ## Introduce
 대학교 졸업작품을 진행할 당시 개발하였던 간병인 중개 플랫폼입니다.
 
